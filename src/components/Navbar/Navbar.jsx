@@ -33,7 +33,6 @@ const Navbar = () => (
           <li className='p__opensans'><a href="#contact">Contact</a></li>
         </ul>
       </div>
-
     </div>
   </nav>
 );
